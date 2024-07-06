@@ -1,1 +1,1 @@
-# reacjs - tailwind
+# react - tailwind
